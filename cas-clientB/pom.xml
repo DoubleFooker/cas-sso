@@ -57,12 +57,6 @@
             <optional>true</optional>
         </dependency>
 
-
-<!--        <dependency>-->
-<!--            <groupId>net.unicon.cas</groupId>-->
-<!--            <artifactId>cas-client-autoconfig-support</artifactId>-->
-<!--            <version>1.4.0-GA</version>-->
-<!--        </dependency>-->
     <dependency>
         <groupId>org.jasig.cas.client</groupId>
         <artifactId>cas-client-support-springboot</artifactId>

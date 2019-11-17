@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableCasClient//启用cas client
-public class CasApplication {
+public class CasAApplication {
     public static void main(String[] args) {
-        SpringApplication.run(CasApplication.class, args);
+        SpringApplication.run(CasAApplication.class, args);
     }
 }
